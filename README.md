@@ -10,9 +10,6 @@
 ## 📊 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skundu42&layout=compact&theme=radical)
 
-## 🏆 Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=skundu42&theme=radical)
-
 ## 🔥 Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=skundu42&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
